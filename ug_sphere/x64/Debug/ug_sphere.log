@@ -1,0 +1,14 @@
+﻿生成启动时间为 2023/4/7 18:16:54。
+     1>项目“D:\GitProjects\ug_sphere\ug_sphere\ug_sphere.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2015\VC\bin\x86_amd64\CL.exe /c /ID:\UG12.0\UGOPEN /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _WINDOWS /D _USRDLL /D UG_SPHERE_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt sphere.cpp
+         sphere.cpp
+       Link:
+         D:\VS2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\GitProjects\ug_sphere\x64\Debug\ug_sphere.dll" /INCREMENTAL /NOLOGO /LIBPATH:D:\UG12.0\UGOPEN libufun.lib libugopenint.lib libnxopencpp.lib libnxopenuicpp.lib opencv_world455d.lib opencv_world455d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\GitProjects\ug_sphere\x64\Debug\ug_sphere.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\GitProjects\ug_sphere\x64\Debug\ug_sphere.lib" /MACHINE:X64 /DLL x64\Debug\sphere.obj
+           正在创建库 D:\GitProjects\ug_sphere\x64\Debug\ug_sphere.lib 和对象 D:\GitProjects\ug_sphere\x64\Debug\ug_sphere.exp
+         ug_sphere.vcxproj -> D:\GitProjects\ug_sphere\x64\Debug\ug_sphere.dll
+     1>已完成生成项目“D:\GitProjects\ug_sphere\ug_sphere\ug_sphere.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:03.68
